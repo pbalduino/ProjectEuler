@@ -8,5 +8,5 @@ Dentro de cada exercício teremos um diretório por linguagem. javascript para Jav
 
 Exemplo:
 
-/001/javascript/euler001.js
-/001/clojure/euler001.clj
+    /001/javascript/euler001.js
+    /001/clojure/euler001.clj
