@@ -2,15 +2,15 @@
 
 ## Como colaborar
 
-Cada exercÌcio ter· seu prÛprio diretÛrio, em formato numÈrico. O problema 1 ficar· no diretÛrio 001, e assim por diante.
+Cada exerc√≠cio ter√° seu pr√≥prio diret√≥rio, em formato num√©rico. O problema 1 ficar√° no diret√≥rio 001, e assim por diante.
 
-Dentro de cada exercÌcio teremos um diretÛrio por linguagem. javascript para JavaScript, clojure para Clojure, ruby, python, java e assim por diante, sempre em letras minusculas. Os nomes dos arquivos devem ser `euler###`_`nome de usu·rio no github`, onde `###` È o n˙mero do problema com trÍs dÌgitos e `nome de usu·rio no github` È o seu nome de usu·rio no GitHub, seguido da respectiva extens„o da linguagem, com todas as letras do nome do arquivo em min˙sculas.
+Dentro de cada exerc√≠cio teremos um diret√≥rio por linguagem. javascript para JavaScript, clojure para Clojure, ruby, python, java e assim por diante, sempre em letras minusculas.  Os nomes dos arquivos devem ser `euler###`_`nome de usu√°rio no github`, onde `###` √© o n√∫mero do problema com tr√™s d√≠gitos e `nome de usu√°rio no github` √© o seu nome de usu√°rio no GitHub, seguido da respectiva extens√£o da linguagem, com todas as letras do nome do arquivo em min√∫sculas.
 
 Exemplo:
 
-    /001/javascript/euler001.js
-    /001/clojure/euler001.clj
+    /001/javascript/euler001_nicolasfrancax.js
+    /001/clojure/euler001_pbalduino.clj
 
-Cada arquivo deve ter um pequeno cabeÁalho contendo o enunciado do problema na Ìntegra e a respectiva URL.
+Cada arquivo deve ter um pequeno cabe√ßalho contendo o enunciado do problema na √≠ntegra e a respectiva URL.
 
-Importante: *Nunca suba uma soluÁ„o que n„o retorne o resultado correto*.
+Importante: *Nunca suba uma solu√ß√£o que n√£o retorne o resultado correto.*.
