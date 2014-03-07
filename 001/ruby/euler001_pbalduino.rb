@@ -7,16 +7,4 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 Source: http://projecteuler.net/problem=1
 =end
 
-# Solução 1
-sum = 0
-
-(0..999).each do |n|
-  if n % 3 == 0 || n % 5 == 0
-    sum += n
-  end
-end
-
-puts sum
-
-# Solução 2
 puts (1..999).to_a.keep_if{|n| n % 3 == 0 || n % 3 == 5}.reduce(:+)
