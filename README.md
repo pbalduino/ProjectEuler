@@ -10,3 +10,7 @@ Exemplo:
 
     /001/javascript/euler001.js
     /001/clojure/euler001.clj
+
+Cada arquivo deve ter um pequeno cabeçalho contendo o enunciado do problema, na íntegra.
+
+Importante: *Nunca suba uma solução que não retorna o resultado correto*.
