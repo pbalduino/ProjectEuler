@@ -16,6 +16,6 @@
   (reduce +
           (filter #(or (by-3 %)
                        (by-5 %))
-                  (range 1 1001))))
+                  (range 1 1000))))
 
 (multiples)
