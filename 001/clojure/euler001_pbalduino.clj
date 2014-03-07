@@ -1,4 +1,4 @@
-(ns euler001)
+(ns euler001-pbalduino)
 
 ; Problem 1 - Multiples of 3 and 5
 ;
