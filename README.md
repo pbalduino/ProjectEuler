@@ -14,3 +14,5 @@ Exemplo:
 Cada arquivo deve ter um pequeno cabeçalho contendo o enunciado do problema na íntegra e a respectiva URL.
 
 Importante: *Nunca suba uma solução que não retorne o resultado correto.*.
+
+Muito importante: *Nunca suba a solução do problema.*.
