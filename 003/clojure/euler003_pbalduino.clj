@@ -10,12 +10,12 @@
 (let [target 600851475143
       r      (int (Math/sqrt target))]
   (last
-	  (loop [fs []
-	         nums (range 2 (inc r))]
-	    (let [f (first nums)]
-	      (if (empty? nums)
-	        fs
-	        (recur (conj fs f)
-	               (filter #(and (not= 0 (mod % f))
-	                             (= 0 (mod target %)))
-	                       nums)))))))
+    (loop [fs []
+           nums (range 2 (inc r))]
+      (let [f (first nums)]
+        (if (empty? nums)
+          fs
+          (recur (conj fs f)
+                 (filter #(and (not= 0 (mod % f))
+                               (= 0 (mod target %)))
+                         nums)))))))
